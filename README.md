@@ -51,7 +51,6 @@ I hope this page looks as embarrassing as the 2025 projects look to me now —
 that is the whole idea.
 
 If you need something similar — an app, an automation, a tool that saves your
-team a few hours a week — or you just want to talk about it, get in touch:
-
-- [LinkedIn](https://www.linkedin.com/in/mlukac/)
-- michal.lukac@outlook.com
+team a few hours a week — or you just want to talk about it,
+**[write me a message here](https://github.com/lukacmichal/lukacmichal/issues/new?title=Hello%20Michal)**.
+It lands straight in my inbox and I answer.
