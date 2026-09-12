@@ -14,8 +14,8 @@ purpose — the difference is the point.
 |---|---|
 | [fuel-price](https://github.com/lukacmichal/fuel-price) — one Python script, prints the cheapest station to the console | [tankomat](https://github.com/lukacmichal/tankomat) — Android app, real road distances, subtracts the fuel burned on the way, 55 unit tests incl. saved copies of the scraped pages |
 | [goal-checker](https://github.com/lukacmichal/goal-checker) — an Android app shown only as two screenshots | five Android apps with full source, one shared template and self-update from my own NAS instead of Google Play |
-| [game-for-nephew](https://github.com/lukacmichal/game-for-nephew) — a maze game written in one evening | [hudba-lan](https://github.com/lukacmichal/hudba-lan) — PC music player + Android remote, LAN streaming, ~240 tests |
-| no tests, files uploaded through the web | tests first, and the README says only what the code really does |
+| [game-for-nephew](https://github.com/lukacmichal/game-for-nephew) — a maze game written in one evening | [hudba-lan](https://github.com/lukacmichal/hudba-lan) — PC music player + Android remote, LAN streaming, ~250 tests |
+| no tests, files uploaded through the web | unit tests in almost every project, and the README says only what the code really does |
 
 ## Projects
 
