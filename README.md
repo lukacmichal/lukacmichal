@@ -1,7 +1,17 @@
 ### Hi, I'm Michal
 
-I build small tools for my own life — Android apps, automations, scrapers —
-and then I keep using them every day, which is the best test there is.
+For about twenty years I was the IT guy — first for a regional forest office,
+then fifteen years in a factory, later running Microsoft 365 for a research
+company. Networks, servers, printers, users... basically everything that had
+anything to do with technology ended up on my desk :)
+
+Today I work as an MES consultant, bringing Industry 4.0 into manufacturing
+plants in Slovakia — I sit with people in production, find out how they really
+work, write it down for the developers and then test what comes back.
+
+And at home I build my own tools. I am not a classic developer: I write down
+what the thing should do and how I will know it works, AI coding agents write
+the code, and I test it and use it every day — which is the best test there is.
 When one of them breaks, the user and the helpdesk are the same person, so the
 ticket is usually closed quite fast :)
 
@@ -32,6 +42,16 @@ layout, same way of updating themselves. It is in each repo as
 `docs/shared-standard.md`.
 
 **Tools:** Python · Kotlin · Jetpack Compose · Android widgets · PySide6 ·
-ffmpeg · scraping · Windows automation · Synology NAS
+ffmpeg · scraping · Windows automation · Synology NAS · AI coding agents
 
-[LinkedIn](https://www.linkedin.com/in/mlukac/)
+## And it does not end here
+
+A year ago it was one script. Today it is apps I rely on every day. Next year
+I hope this page looks as embarrassing as the 2025 projects look to me now —
+that is the whole idea.
+
+If you need something similar — an app, an automation, a tool that saves your
+team a few hours a week — or you just want to talk about it, get in touch:
+
+- [LinkedIn](https://www.linkedin.com/in/mlukac/)
+- michal.lukac@outlook.com
