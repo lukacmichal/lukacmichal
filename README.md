@@ -45,7 +45,7 @@ purpose — the difference is the point.
 
 And the other half of hudba-lan, the player on the PC:
 
-<img src="docs/screenshots/hudba-lan-player.png" alt="The hudba-lan PC player: playlist, cover art, lyrics pane and the sleep buttons" width="760">
+<img src="docs/screenshots/hudba-lan-player.png?v=2" alt="The hudba-lan PC player: playlist, cover art, lyrics pane and the sleep buttons" width="760">
 
 Everything is in Slovak — I write these for myself and they never needed
 another language. Every repository has more screenshots in its own README.
