@@ -37,6 +37,19 @@ purpose — the difference is the point.
 | [**pocasie**](https://github.com/lukacmichal/pocasie) | Weather with alerts that downloads about 1.3 MB a month. |
 | [**meniny**](https://github.com/lukacmichal/meniny) | Slovak name-day calendar with a widget and reminders. |
 
+## What they look like
+
+| [tankomat](https://github.com/lukacmichal/tankomat) | [hudba-lan](https://github.com/lukacmichal/hudba-lan) | [homesecure](https://github.com/lukacmichal/homesecure) | [pocasie](https://github.com/lukacmichal/pocasie) | [meniny](https://github.com/lukacmichal/meniny) |
+|---|---|---|---|---|
+| <img src="docs/screenshots/tankomat.png" alt="Tankomat: a green verdict saying it is worth driving over, then every station with its saving" width="170"> | <img src="docs/screenshots/hudba-lan-remote.png" alt="The hudba-lan remote on the phone: what is playing, the controls and the playlist" width="170"> | <img src="docs/screenshots/homesecure.png" alt="HomeSecure: someone is home, guarding is off, with the scan log underneath" width="170"> | <img src="docs/screenshots/pocasie.png" alt="Pocasie: temperature line with precipitation bars, then hour by hour and day by day" width="170"> | <img src="docs/screenshots/meniny.png" alt="Meniny: today's name day and the days after it" width="170"> |
+
+And the other half of hudba-lan, the player on the PC:
+
+<img src="docs/screenshots/hudba-lan-player.png" alt="The hudba-lan PC player: playlist, cover art, lyrics pane and the sleep buttons" width="760">
+
+Everything is in Slovak — I write these for myself and they never needed
+another language. Every repository has more screenshots in its own README.
+
 The Android apps share one written standard — same UI skeleton, same settings
 layout, same way of updating themselves. It is in each repo as
 `docs/shared-standard.md`.
