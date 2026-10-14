@@ -40,7 +40,7 @@ tankomat while it worked — the verdict when the trip pays off, and when it doe
 
 | | |
 |---|---|
-| [**mes-lab**](https://github.com/lukacmichal/mes-lab) | A virtual electronics plant and the MES that runs it — machines, people, robots and every piece traced from the board to the pallet. |
+| [**mes-lab**](https://github.com/lukacmichal/mes-lab) | A virtual electronics plant and the MES that runs it — machines, people, robots and every piece traced from the board to the pallet. [Live](https://152.70.49.202.sslip.io) |
 | [**hudba-lan**](https://github.com/lukacmichal/hudba-lan) | Music player that streams to the whole flat, names downloaded albums by itself and counts what I play. The phone is its remote and touchpad, Firefox gets toolbar buttons. |
 | [**homesecure**](https://github.com/lukacmichal/homesecure) | An old phone guards the flat when none of my devices is on the Wi-Fi. |
 | [**pocasie**](https://github.com/lukacmichal/pocasie) | Weather with alerts that downloads about 1.3 MB a month. |
@@ -56,7 +56,7 @@ And the other half of hudba-lan, the player on the PC:
 
 <img src="docs/screenshots/hudba-lan-player.png?v=2" alt="The hudba-lan PC player: playlist, cover art, lyrics pane and the sleep buttons" width="760">
 
-mes-lab, the plant floor seen from above while it runs:
+mes-lab, the plant floor seen from above while it runs — [the live one is here](https://152.70.49.202.sslip.io):
 
 <img src="docs/screenshots/mes-lab-floor.jpg" alt="mes-lab: the plant floor from above — SMT lines, the supermarket, final assembly and packing, with the shift numbers on top" width="760">
 
