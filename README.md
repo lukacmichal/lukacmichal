@@ -25,18 +25,22 @@ ticket is usually closed quite fast :)
 I put my first projects here in August 2025. They are still here, archived, on
 purpose — the difference is the point.
 
-| August 2025 | September 2026 |
+| August 2025 | October 2026 |
 |---|---|
-| [fuel-price](https://github.com/lukacmichal/fuel-price) — one Python script, prints the cheapest station to the console | [tankomat](https://github.com/lukacmichal/tankomat) — Android app, real road distances, subtracts the fuel burned on the way, 55 unit tests incl. saved copies of the scraped pages |
+| [fuel-price](https://github.com/lukacmichal/fuel-price) — one Python script, prints the cheapest station to the console | **tankomat** — Android app, real road distances, subtracts the fuel burned on the way, 55 unit tests. I gave it up in October 2026: the price site kept changing its layout, and every change broke the app |
 | [goal-checker](https://github.com/lukacmichal/goal-checker) — an Android app shown only as two screenshots | Android apps with full source, one shared template and self-update from my own NAS instead of Google Play |
 | [game-for-nephew](https://github.com/lukacmichal/game-for-nephew) — a maze game written in one evening | [hudba-lan](https://github.com/lukacmichal/hudba-lan) — PC music player + Android remote and touchpad + Firefox add-on, LAN streaming, ~300 tests |
 | no tests, files uploaded through the web | unit tests in almost every project, and the README says only what the code really does |
+
+tankomat while it worked — the verdict when the trip pays off, and when it does not:
+
+<img src="docs/screenshots/tankomat-worth-it.png" alt="Tankomat: a green verdict, the cheapest Czech station saves 0.54 EUR on 65 litres after the fuel for the trip" width="220"> <img src="docs/screenshots/tankomat-not-worth-it.png" alt="Tankomat: a red verdict, even the cheapest station loses money once the trip is counted" width="220">
 
 ## Projects
 
 | | |
 |---|---|
-| [**tankomat**](https://github.com/lukacmichal/tankomat) | Is it worth driving across the Czech border to fill up? Answers with a number. |
+| [**mes-lab**](https://github.com/lukacmichal/mes-lab) | A virtual electronics plant and the MES that runs it — machines, people, robots and every piece traced from the board to the pallet. |
 | [**hudba-lan**](https://github.com/lukacmichal/hudba-lan) | Music player that streams to the whole flat, names downloaded albums by itself and counts what I play. The phone is its remote and touchpad, Firefox gets toolbar buttons. |
 | [**homesecure**](https://github.com/lukacmichal/homesecure) | An old phone guards the flat when none of my devices is on the Wi-Fi. |
 | [**pocasie**](https://github.com/lukacmichal/pocasie) | Weather with alerts that downloads about 1.3 MB a month. |
@@ -44,23 +48,29 @@ purpose — the difference is the point.
 
 ## What they look like
 
-| [tankomat](https://github.com/lukacmichal/tankomat) | [hudba-lan](https://github.com/lukacmichal/hudba-lan) | [homesecure](https://github.com/lukacmichal/homesecure) | [pocasie](https://github.com/lukacmichal/pocasie) | [meniny](https://github.com/lukacmichal/meniny) |
-|---|---|---|---|---|
-| <img src="docs/screenshots/tankomat.png" alt="Tankomat: a green verdict saying it is worth driving over, then every station with its saving" width="170"> | <img src="docs/screenshots/hudba-lan-remote.png" alt="The hudba-lan remote on the phone: what is playing, the controls and the playlist" width="170"> | <img src="docs/screenshots/homesecure.png" alt="HomeSecure: someone is home, guarding is off, with the scan log underneath" width="170"> | <img src="docs/screenshots/pocasie.png" alt="Pocasie: temperature line with precipitation bars, then hour by hour and day by day" width="170"> | <img src="docs/screenshots/meniny.png" alt="Meniny: today's name day and the days after it" width="170"> |
+| [hudba-lan](https://github.com/lukacmichal/hudba-lan) | [homesecure](https://github.com/lukacmichal/homesecure) | [pocasie](https://github.com/lukacmichal/pocasie) | [meniny](https://github.com/lukacmichal/meniny) |
+|---|---|---|---|
+| <img src="docs/screenshots/hudba-lan-remote.png" alt="The hudba-lan remote on the phone: what is playing, the controls and the playlist" width="170"> | <img src="docs/screenshots/homesecure.png" alt="HomeSecure: someone is home, guarding is off, with the scan log underneath" width="170"> | <img src="docs/screenshots/pocasie.png" alt="Pocasie: temperature line with precipitation bars, then hour by hour and day by day" width="170"> | <img src="docs/screenshots/meniny.png" alt="Meniny: today's name day and the days after it" width="170"> |
 
 And the other half of hudba-lan, the player on the PC:
 
 <img src="docs/screenshots/hudba-lan-player.png?v=2" alt="The hudba-lan PC player: playlist, cover art, lyrics pane and the sleep buttons" width="760">
 
-Everything is in Slovak — I write these for myself and they never needed
-another language. Every repository has more screenshots in its own README.
+mes-lab, the plant floor seen from above while it runs:
+
+<img src="docs/screenshots/mes-lab-floor.jpg" alt="mes-lab: the plant floor from above — SMT lines, the supermarket, final assembly and packing, with the shift numbers on top" width="760">
+
+The apps are in Slovak — I write them for myself and they never needed another
+language. mes-lab is in English and Slovak. Every repository has more
+screenshots in its own README.
 
 The Android apps share one written standard — same UI skeleton, same settings
 layout, same way of updating themselves. It is in each repo as
 `docs/shared-standard.md`.
 
 **Tools:** Python · Kotlin · Jetpack Compose · Android widgets · PySide6 ·
-ffmpeg · scraping · Windows automation · Synology NAS · AI coding agents
+FastAPI · PostgreSQL · SimPy · ffmpeg · scraping · Windows automation ·
+Synology NAS · AI coding agents
 
 ## And it does not end here
 
